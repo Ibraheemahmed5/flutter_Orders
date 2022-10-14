@@ -34,10 +34,10 @@ class MyApp extends StatelessWidget {
 
       title: 'Nakhla_gifts',
 
-      //home: Splash(),
+      home: Splash(),
       //home: Post_page(),
       //home: Choices(),
-      home: Ordert_page(),
+      //home: Ordert_page(),
     );
   }
 }
